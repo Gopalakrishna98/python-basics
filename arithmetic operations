@@ -1,0 +1,26 @@
+#addition of two numbers
+x=4
+y=5
+z=x+y
+print(z)
+
+
+#substraction of two numbers
+x=6
+y=3
+z=x-y
+print(z)
+
+
+#multiplication of two numbers
+a=4
+b=6
+c=a*b
+print(c)
+
+
+#divison of two numbers
+p=10
+q=2
+r=p/q
+print(r)
